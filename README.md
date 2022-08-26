@@ -67,6 +67,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://khubaibkm.github.io/simple_html_css/)
-- GitHub [@your-username](https://github.com/khubaibkm)
-- Twitter [@your-twitter](https://twitter.com/Khubaib56058732)
+- Website [My website](https://khubaibkm.github.io/simple_html_css/)
+- GitHub [Github](https://github.com/khubaibkm)
+- Twitter [Twitter](https://twitter.com/Khubaib56058732)
