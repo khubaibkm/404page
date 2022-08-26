@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://khubaibkm.github.io/404page/">
+    <a href="https://www.figma.com/file/QeKWLNhB13zDjJzqR22TKE/404-page-challenge?node-id=0%3A1">
       Demo
     </a>
     <span> | </span>
-    <a href="[https://khubaibkm.github.io/404page](https://www.figma.com/file/QeKWLNhB13zDjJzqR22TKE/404-page-challenge?node-id=0%3A1)">
+    <a href="[https://khubaibkm.github.io/404page/">
       Solution
     </a>
     <span> | </span>
